@@ -1,7 +1,0 @@
----
-title: Our Calendar
----
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=America%2FNew_York&amp;showPrint=0&amp;src=a2VudHVja3lAY3B1c2Eub3Jn&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no">
-
-</iframe>
