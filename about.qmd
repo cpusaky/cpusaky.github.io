@@ -1,0 +1,24 @@
+---
+title: "About Us"
+image: rossana.jpeg
+about:
+  template: marquee
+  links:
+  - icon: facebook
+    text: Facebook
+    href: https://www.facebook.com/CPofKY/
+  - icon: instagram
+    text: Instagram
+    href: https://www.instagram.com/cpofky/
+  - icon: envelope
+    text: Email
+    href: mailto:kentucky@cpusa.org 
+---
+
+The [Communist Party USA](https://cpusa.org) was founded on September 1, 1919.
+
+The Kentucky District is composed of all the Party clubs and Young Communist League chapters in the Commonwealth. Once a District is approved by the Party's National Committee, the District elects leadership yearly and meets at regular intervals.
+
+We are guided by the [CPUSA Party Program](https://cpusa.org/party_info/party-program/), although each District and Party club develops its own plan of work for the year as a result of careful analysis and democratic deliberation among all members.
+
+Looking to find a Party club or YCL in your area? Send us an email via the link at the top or bottom of this page and we'll be in touch. Whether you're a seasoned organizer or you're still new to activism and politics, everyone has a role to play in building a better world.

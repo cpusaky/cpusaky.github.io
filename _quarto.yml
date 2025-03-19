@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "CPUSA Kentucky District"
+  favicon: square.png
+  navbar:
+    logo: square.png
+    right: 
+      - about.qmd
+      - links.qmd
+      - calendar.qmd
+      - icon: envelope
+        href: mailto:kentucky@cpusa.org
+      - icon: facebook
+        href: https://www.facebook.com/CPofKY/
+      - icon: instagram
+        href: https://www.instagram.com/cpofky/
+  
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: false
+
+editor: visual
